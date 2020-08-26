@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name M.2_Connectors)(type Legacy)(uri ${KIPRJMOD}/M.2_Connectors.lib)(options "")(descr ""))
+  (lib (name PCIE_Connectors)(type Legacy)(uri C:/Users/ConnorK/Documents/Kicad_Projects/SQRL-Carrier/PCIE-164-02-F-D-RA.lib)(options "")(descr ""))
+  (lib (name Carrier_power)(type Legacy)(uri ${KIPRJMOD}/Carrier_power.lib)(options "")(descr ""))
+  (lib (name PCIe_Clock)(type Legacy)(uri ${KIPRJMOD}/PCIe_Clock.lib)(options "")(descr ""))
+  (lib (name spoolqueue_logo)(type Legacy)(uri ${KIPRJMOD}/spoolqueue_logo.lib)(options "")(descr ""))
+)

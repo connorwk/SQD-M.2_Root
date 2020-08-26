@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name NGFF)(type KiCad)(uri C:/Users/ConnorK/Documents/Kicad_Projects/SQRL-Carrier/NGFF.pretty)(options "")(descr ""))
+  (lib (name PCIE)(type KiCad)(uri C:/Users/ConnorK/Documents/Kicad_Projects/SQRL-Carrier/PCIE.pretty)(options "")(descr ""))
+  (lib (name SQRL-Carrier)(type KiCad)(uri C:/Users/ConnorK/Documents/Kicad_Projects/SQRL-Carrier/SQRL-Carrier.pretty)(options "")(descr ""))
+)
